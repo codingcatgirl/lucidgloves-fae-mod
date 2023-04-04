@@ -1,5 +1,7 @@
 # Modifying the firmware
 
+**Important:** Make sure you are using the newest version of the ESP32Servo library, or it will not work!
+
 You need to open some files of the prototype 5 firmware and edit them as described here:
 
 ## _main.ino
