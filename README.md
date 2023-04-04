@@ -56,8 +56,5 @@ implementing the other side of it for the firmware.
 
 - [Ordering the parts needed](docs/ordering_parts.md)
 - [3D Printing the modified parts](docs/3d_printing.md)
-- Assembling the modified parts (TBD)
-
-
-
-
+- [Assembling the modified parts](docs/assembly.md)
+- [Modifying the firmware](docs/firmware.md)
