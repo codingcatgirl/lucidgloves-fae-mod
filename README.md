@@ -50,7 +50,7 @@ If you're a developer and feel like implementing communication via WiFi/TCP/UDP 
 oopengloves driver and submit a pull request to it, i'm sure it would be appreciated by the community.
 I don't have enough experience with software development on windows to do it myself. However, i am experienced
 with firmware development and if someone added the support to the opengloves driver, i would probably be up to
-implementing the other side of it for the firmware. 
+implementing the other side of it for the firmware.
 
 ## Instructions
 
@@ -58,3 +58,16 @@ implementing the other side of it for the firmware.
 - [3D Printing the modified parts](docs/3d_printing.md)
 - [Assembling the modified parts](docs/assembly.md)
 - [Modifying the firmware](docs/firmware.md)
+
+## Contributing
+
+Feedback is always welcome.
+
+If you have questions that are about the specific of this mod, feel free to use the issue tracker. If you have questions
+about the LucidGloves in general and assembly or setup steps that are not different for this mod, please stick to the 
+official support channels of the original LucidGloves.
+
+If you find an error somewhere or see a way to improve the documentation, feel free to open an issue or a pull request.
+
+It sure would be nice if the instructions had some screenshots and images in then. If you feel like it, make some while
+you follow along with the instructions and submit them to this repo, ideally using a pull request :)
