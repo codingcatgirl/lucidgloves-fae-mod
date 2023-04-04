@@ -9,6 +9,11 @@ This repository contains files and instructions how to build the **LucidglovesFa
   <a href="img/wiring-closeup.jpg"><img src="img/wiring-closeup.jpg" width="30%" /></a>
 </p>
 
+<p>
+  <a href="img/control-pcb-front.png"><img src="img/control-pcb-front.png" width="45%" /></a>
+  <a href="img/control-pcb-back.png"><img src="img/control-pcb-back.png" width="45%" /></a>
+</p>
+
 The mod presently consists of 4 features that can, in theory, be used seperately:
 
 * Custom PCBs to greatly simplify the wiring and provide a compact control PCB featuring an ESP32-S3 chip and 
