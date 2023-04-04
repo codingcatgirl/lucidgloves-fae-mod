@@ -11,17 +11,18 @@ For each of these, remember that having 1-2 to spare can be very useful.
   * Make sure you select the **right angle version** (called “curved needle” in the linked product) and 
     **6 pin version** (called “6P” in the linked product).
   * This seems to actually not be a connector from JST, but for some reason sellers on Aliexpress call it that anyway.
-  * In theory, you can select other right angled connectors with 6 pins and 1.25mm, but if you do make sure you are
-    ordering the right cables for it as well. 
+  * In theory, you can select other right-angled connectors with 6 pins and 1.25mm, but if you do make sure you are
+    ordering the right cables for it as well.
+  * (If you opt to have JLCPCB assemble these for you (see below), you will only need 5 of these per glove.)
 * 5× (per glove) **JST 6pin 1.25mm pitch cable 10cm** ([AliExpress](https://www.aliexpress.com/item/1005002531804129.html)) 
-  * Make sure you select the **6 pin versopm** (called “6P” in the linked product) and **10cm** (15cm is fine too).
-  * Again, remember that having spares can be useful.
+  * Make sure you select the **6 pin versiom** (called “6P” in the linked product) and **10cm** (15cm is fine too).
 * **2.54mm pitch pin headers** ([AliExpress](https://www.aliexpress.com/item/32758380907.html))
   * They are used to more easily connect buttons, joysticks and (should you ever need it) a programmer
-    using jumpers. In theory they are all optional.
+    using jumpers. In theory, most of them are optional, but you need 3 pins per finger to connect the servo.
   * The AliExpress link here is merely an example but those will be plenty for even 10 gloves and more. You can find
-    these everywhere and might even have some laying around still. Per PCB you will need 23 pins, unless you chose to
-    leave out some. 
+    these everywhere and might even have some laying around still. Per glove you will need 38 pins, unless you chose to
+    leave out some.
+  * (If you opt to have JLCPCB assemble these for you (see below), you will only need 15 pins per glove.)
 * 17× (per glove) **DIN912 M2×5 screws** ([AliExpress](https://www.aliexpress.com/item/759266313.html))
   * Similar screw will do. 4mm or 6mm will work as well.
   * Strictly speaking these are optional if you like hot gluing things.
@@ -46,8 +47,8 @@ Create an account/sign into [JLCPCB.com](JLCPCB.com). Click on “Order now”. 
   will add a significant Special Process Fee. If that happens, you probably want to choose another color. 
 * Set “Remove Order Number” to “Specify a location”.
 * Switch on "PCB Assembly".
-* Double check that “PCBA Type” is set to “Economic“. If you can't select Economic, you need to choose another
-* combination of PCB Color and Surface finish.
+* Double check that “PCBA Type” is set to “Economic“. If you can't select Economic, you need to choose another 
+  combination of PCB Color and Surface finish.
 * Click “Confirm”.
 
 Click next until you reach the Upload for the BOM and CPL files.
