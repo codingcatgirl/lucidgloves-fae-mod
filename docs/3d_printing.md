@@ -7,7 +7,7 @@
 * In order for bridging helpers to work correctly, you need to print a layer height of 0.15mm or lower and 3 outer
   perimeters or more. 
 * At that point, infill won't matter and can be pretty low.
-* After printing, remove the two tiny bridges at the end of the module holding up the `lip`.
+* After printing, remove the two tiny bridges at the end of the module holding up the "lip".
 
 ## New Tracker Mount
 
