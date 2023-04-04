@@ -7,7 +7,7 @@
 * In order for bridging helpers to work correctly, you need to print a layer height of 0.15mm or lower and 3 outer
   perimeters or more. 
 * At that point, infill won't matter and can be pretty low.
-* After printing, remove the two tiny bridges at the end of the module holding up the "lip".
+* After printing, remove the two tiny bridges at the end of the module holding up the `lip`.
 
 ## New Tracker Mount
 
@@ -32,7 +32,7 @@ You will need flexible filament for this (duh). For example, this was tested wit
   * Make sure your printer supports `M600` or a similar print pause/filament change G-Code command.
   * Set `M600` (or whatever command your printer understands) as the custom Filament Change/Tool Change G-Code.
     In PrusaSlicer/SuperSlicer, you find this in the Custom G-Code section of your Printer profile. In Cure, there
-    is an Extension called “Post Processing” that you can use to add a custom G-Code script.
+    is an Extension called `Post Processing` that you can use to add a custom G-Code script.
 * Set the layer height to 0.25mm for the bottom 1mm or the entire print. You can set it lower, but then you'll have
   to change the filament more often.
 * If you have done it correctly, there should only be 4 manual filament changes for the entire print.
