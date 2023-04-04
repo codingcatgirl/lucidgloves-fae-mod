@@ -4,9 +4,9 @@ This repository contains files and instructions how to build the **LucidglovesFa
 **[Lucidgloves Prototype 5](https://github.com/LucidVR/lucidgloves/tree/proto5) by Lucas VRTech**.
 
 <p>
-  <a href="glove-total.jpg"><img src="glove-total.jpg" width="30%" /></a>
-  <a href="finger-module-closeup.jpg"><img src="finger-module-closeup.jpg" width="30%" /></a>   
-  <a href="wiring-closeup.jpg"><img src="wiring-closeup.jpg" width="30%" /></a>
+  <a href="img/glove-total.jpg"><img src="img/glove-total.jpg" width="30%" /></a>
+  <a href="img/finger-module-closeup.jpg"><img src="img/finger-module-closeup.jpg" width="30%" /></a>   
+  <a href="img/wiring-closeup.jpg"><img src="img/wiring-closeup.jpg" width="30%" /></a>
 </p>
 
 The mod presently consists of 3 features that can, in theory, be used seperately:
@@ -34,7 +34,8 @@ cables as they are all included. In my opinion, the reduced hassle alone is wort
 At the time of writing this, the cost of parts to build the LucidGloves Fae Mod including 3D printing filament and
 all parts, according to my calculations, comes down to ~$60 per glove for 2 gloves and ~$40 per glove for 4 gloves.
 
-Don't forget that you will still need to buy a SteamVR tracker of your choice for each glove thoguh, of course. 
+Don't forget that you will still need to buy a SteamVR tracker of your choice, a USB cable and a Powerbank for each
+glove thogh, of course.  
 
 ## Important caveat
 
@@ -52,7 +53,7 @@ implementing the other side of it for the firmware.
 
 ## Instructions
 
-- Ordering the parts needed (TBD)
+- [Ordering the parts needed](docs/ordering_parts.md)
 - 3D Printing the modified parts (TBD)
 - Assembling the modified parts (TBD)
 
