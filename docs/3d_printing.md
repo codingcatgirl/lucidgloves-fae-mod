@@ -11,7 +11,7 @@
 
 ## New Tracker Mount
 
-* Download [Modified Sensor Housing STL](../stl/TrackerMount_FaeMod_v1.0.stl).
+* Download [New Tracker Mount STL](../stl/TrackerMount_FaeMod_v1.0.stl).
 * No supports or anything similar needed.
 * In order for bridging helpers to work correctly, you need to print a layer height of 0.2mm or lower.
 * 2-3 perimeters should be enough.
