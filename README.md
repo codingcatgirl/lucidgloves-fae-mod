@@ -4,9 +4,9 @@ This repository contains files and instructions how to build the **LucidglovesFa
 **[Lucidgloves Prototype 5](https://github.com/LucidVR/lucidgloves/tree/proto5) by Lucas VRTech**.
 
 <p>
-  <img src="glove-total.jpg" width="30%" />
-  <img src="finger-module-closeup.jpg" width="30%" />   
-  <img src="wiring-closeup.jpg" width="30%" />
+  <a href="glove-total.jpg"><img src="glove-total.jpg" width="30%" /></a>
+  <a href="finger-module-closeup.jpg"><img src="finger-module-closeup.jpg" width="30%" /></a>   
+  <a href="wiring-closeup.jpg"><img src="wiring-closeup.jpg" width="30%" /></a>
 </p>
 
 The mod presently consists of 3 features that can, in theory, be used seperately:
@@ -16,7 +16,8 @@ The mod presently consists of 3 features that can, in theory, be used seperately
   [JLCPCB](https://jlcpcb.com/) including most of the assembly.
 * A modified sensor module that prints without supports and fits the new PCBs. It can also be used without the new PCBs.
 * A two-material version of the RigidMount, that allows you to print part of it with flexible filament (TPU) so it
-  flexes more nicely where it needs to. It can also be printed with e non-multi-material printer. 
+  flexes more nicely where it needs to. It can be used without the other parts of this mod. It can also be printed using
+  a non-multi-material printer. 
 
 ## Cost
 
