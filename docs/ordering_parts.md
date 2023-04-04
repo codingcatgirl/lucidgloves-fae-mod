@@ -109,4 +109,3 @@ If you are happy, go to checkout. Pay attention to the following two things:
 * There's an extra fee if you use PayPal.
 
 Congratulatios, you're done with the PCBs!
-

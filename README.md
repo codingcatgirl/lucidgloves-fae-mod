@@ -9,13 +9,14 @@ This repository contains files and instructions how to build the **LucidglovesFa
   <a href="img/wiring-closeup.jpg"><img src="img/wiring-closeup.jpg" width="30%" /></a>
 </p>
 
-The mod presently consists of 3 features that can, in theory, be used seperately:
+The mod presently consists of 4 features that can, in theory, be used seperately:
 
 * Custom PCBs to greatly simplify the wiring and provide a compact control PCB featuring an ESP32-S3 chip and 
   most notably no need for a multiplexer chip. With the files provided they can be ordered directly from
-  [JLCPCB](https://jlcpcb.com/) including most of the assembly.
+  [JLCPCB](https://jlcpcb.com/) including most of the assembly. 
 * A modified sensor module that prints without supports and fits the new PCBs. It can also be used without the new PCBs.
-* A two-material version of the RigidMount, that allows you to print part of it with flexible filament (TPU) so it
+* A new tracker mount that includes space for the control PCB. It can also be used without the new PCBs.
+* A two-material version of the rigid mount, that allows you to print part of it with flexible filament (TPU) so it
   flexes more nicely where it needs to. It can be used without the other parts of this mod. It can also be printed using
   a non-multi-material printer. 
 
@@ -54,7 +55,7 @@ implementing the other side of it for the firmware.
 ## Instructions
 
 - [Ordering the parts needed](docs/ordering_parts.md)
-- 3D Printing the modified parts (TBD)
+- [3D Printing the modified parts](docs/3d_printing.md)
 - Assembling the modified parts (TBD)
 
 
