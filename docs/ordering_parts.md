@@ -59,7 +59,7 @@ Click next until you reach the Upload for the BOM and CPL files.
 
 You are now on the page where you can review the parts that will be put in the PCB.
 
-* Parts that are marked as `Extended” instead of `Basic” cost an extra fee. You can save money by leaving out some
+* Parts that are marked as `Extended` instead of `Basic` cost an extra fee. You can save money by leaving out some
   of them and acquiring and soldering them on yourself. 
   * This guide recommends and assumes that you leave out the pin headers and connectors, get those from AliExpress (see 
     below) and solder them on yourself because they are easy to solder and having them assembled would cost $10 more.
@@ -87,7 +87,7 @@ You are now on a summary page.
 
 * You should see a total price of around $27. If not, double check that you did everything right.
 * For Product Description, you have to select what applies, usually DIY should do.
-* Click `Save to Cart”.
+* Click `Save to Cart`.
 
 Repeat these steps with [top_pcb.zip](../pcb/top_pcb.zip) and [bottom_pcb.zip](../pcb/bottom_pcb.zip), but:
 
