@@ -4,7 +4,7 @@
 
 For each of these, remember that having 1-2 to spare can be very useful.
 
-* 1× (per glove) **ESP-S3-32S by Ai-thinker** ([AliExpress](https://www.aliexpress.com/item/1005004078472526.html))
+* 1× (per glove) **ESP-S3-32S by Ai-thinker** ([AliExpress](https://www.aliexpress.us/item/3256805521467762))
   * If you order it somewhere else, make sure it definitely is the **S3** version by **Ai-thinker**, and **NOT an 
     ESP32-S3-WROOM** module from Espressif. That one has soldering pads on the bottom, so you cannot hand solder it.
 * 10× (per glove) **JST 6 pin 1.25mm pitch right angle THT connector** ([AliExpress](https://www.aliexpress.com/item/1005004374200185.html))
