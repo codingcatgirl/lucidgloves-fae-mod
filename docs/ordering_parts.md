@@ -4,9 +4,12 @@
 
 For each of these, remember that having 1-2 to spare can be very useful.
 
-* 1× (per glove) **ESP-S3-32S by Ai-thinker** ([AliExpress](https://www.aliexpress.com/item/1005004078472526.html))
-  * If you order it somewhere else, make sure it definitely is the **S3** version by **Ai-thinker**, and **NOT an 
-    ESP32-S3-WROOM** module from Espressif. That one has soldering pads on the bottom, so you cannot hand solder it.
+* 1× (per glove) **ESP32-S3-WROOM-1** ([AliExpress](https://www.aliexpress.com/item/1005004815894336.html))
+  * If you order it somewhere else, make sure it definitely is the **S3** version, and that it does **not have an U**
+    at the end (then it comes without an antenna).
+  * Previously, the recommended module was the **ESP-S3-32S** by **Ai-thinker**, recommended because it is easier to solder
+    because it doesn't have soldering pads on the bottom. However, this module got discontinued and soldering the pads on the
+    bottom of the WROOM-module is optional, so this is now recommended instead.
 * 10× (per glove) **JST 6 pin 1.25mm pitch right angle THT connector** ([AliExpress](https://www.aliexpress.com/item/1005004374200185.html))
   * Make sure you select the **right angle version** (called `curved needle` in the linked product) and 
     **6 pin version** (called `6P` in the linked product).
